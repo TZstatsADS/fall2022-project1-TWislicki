@@ -1,0 +1,18 @@
+school,author,title,year,mean_sentence_length,mean_compound,freq_of_sentences
+analytic,Kripke,Naming And Necessity,1970,120.57,0.06,2681
+analytic,Kripke,Philosophical Troubles,1980,118.6,0.04,9798
+analytic,Lewis,Lewis - Papers,1980,109.72,0.07,13120
+analytic,Moore,Philosophical Studies,1910,167.25,0.17,3668
+analytic,Popper,The Logic Of Scientific Discovery,1960,139.55,0.08,4678
+analytic,Quine,Quintessence,1950,121.64,0.1,7373
+analytic,Russell,The Analysis Of Mind,1920,142.64,0.06,3513
+analytic,Russell,The Problems Of Philosophy,1910,154.54,0.09,1560
+analytic,Wittgenstein,On Certainty,1950,79.38,0.03,1984
+analytic,Wittgenstein,Philosophical Investigations,1950,83.58,0.04,5838
+analytic,Wittgenstein,Tractatus Logico-Philosophicus,1920,100.19,0.05,1212
+continental,Deleuze,Anti-Oedipus,1970,165.51,0.01,6679
+continental,Deleuze,Difference And Repetition,1970,161.58,0.02,5861
+continental,Derrida,Writing And Difference,1970,143.43,0.01,5999
+continental,Foucault,History Of Madness,1960,174.42,-0.12,8033
+continental,Foucault,The Birth Of The Clinic,1960,184.99,0.02,2518
+continental,Foucault,The Order Of Things,1970,218.2,0.13,4689

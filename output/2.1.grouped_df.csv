@@ -1,0 +1,60 @@
+school,author,title,year,mean_sentence_length,mean_compound,freq_of_sentences
+analytic,Kripke,Naming And Necessity,1970,120.57,0.06,2681
+analytic,Kripke,Philosophical Troubles,1980,118.6,0.04,9798
+analytic,Lewis,Lewis - Papers,1980,109.72,0.07,13120
+analytic,Moore,Philosophical Studies,1910,167.25,0.17,3668
+analytic,Popper,The Logic Of Scientific Discovery,1960,139.55,0.08,4678
+analytic,Quine,Quintessence,1950,121.64,0.1,7373
+analytic,Russell,The Analysis Of Mind,1920,142.64,0.06,3513
+analytic,Russell,The Problems Of Philosophy,1910,154.54,0.09,1560
+analytic,Wittgenstein,On Certainty,1950,79.38,0.03,1984
+analytic,Wittgenstein,Philosophical Investigations,1950,83.58,0.04,5838
+analytic,Wittgenstein,Tractatus Logico-Philosophicus,1920,100.19,0.05,1212
+aristotle,Aristotle,Aristotle - Complete Works,-320,153.22,0.1,48779
+capitalism,Keynes,"A General Theory Of Employment, Interest, And Money",1940,196.65,0.21,3411
+capitalism,Ricardo,On The Principles Of Political Economy And Taxation,1820,186.25,0.22,3090
+capitalism,Smith,The Wealth Of Nations,1780,185.28,0.24,11693
+communism,Lenin,Essential Works Of Lenin,1860,181.42,0.05,4469
+communism,Marx,Capital,1880,142.97,0.12,12996
+communism,Marx,The Communist Manifesto,1850,150.68,0.01,493
+continental,Deleuze,Anti-Oedipus,1970,165.51,0.01,6679
+continental,Deleuze,Difference And Repetition,1970,161.58,0.02,5861
+continental,Derrida,Writing And Difference,1970,143.43,0.01,5999
+continental,Foucault,History Of Madness,1960,174.42,-0.12,8033
+continental,Foucault,The Birth Of The Clinic,1960,184.99,0.02,2518
+continental,Foucault,The Order Of Things,1970,218.2,0.13,4689
+empiricism,Berkeley,A Treatise Concerning The Principles Of Human Knowledge,1710,184.72,0.14,1040
+empiricism,Berkeley,Three Dialogues,1710,111.98,0.07,1694
+empiricism,Hume,A Treatise Of Human Nature,1740,183.01,0.23,7047
+empiricism,Hume,Dialogues Concerning Natural Religion,1780,164.51,0.13,1265
+empiricism,Locke,Essay Concerning Human Understanding,1690,190.59,0.14,7742
+empiricism,Locke,Second Treatise On Government,1690,266.79,0.14,1143
+feminism,Beauvoir,The Second Sex,1950,148.79,0.09,13017
+feminism,Davis,"Women, Race, And Class",1980,139.67,-0.1,3059
+feminism,Wollstonecraft,Vindication Of The Rights Of Woman,1790,190.96,0.27,2559
+german_idealism,Fichte,The System Of Ethics,1800,151.96,0.17,5308
+german_idealism,Hegel,Elements Of The Philosophy Of Right,1820,161.01,0.16,4923
+german_idealism,Hegel,Science Of Logic,1820,187.17,0.12,10678
+german_idealism,Hegel,The Phenomenology Of Spirit,1810,168.7,0.12,7099
+german_idealism,Kant,Critique Of Judgement,1790,211.98,0.29,4204
+german_idealism,Kant,Critique Of Practical Reason,1790,175.38,0.23,2452
+german_idealism,Kant,Critique Of Pure Reason,1780,197.86,0.08,7472
+nietzsche,Nietzsche,Beyond Good And Evil,1890,188.08,0.14,1906
+nietzsche,Nietzsche,Ecce Homo,1890,133.98,0.1,1504
+nietzsche,Nietzsche,The Antichrist,1890,133.34,0.07,1170
+nietzsche,Nietzsche,Thus Spake Zarathustra,1890,80.56,0.06,5916
+nietzsche,Nietzsche,Twilight Of The Idols,1890,126.84,0.1,3052
+phenomenology,Heidegger,Being And Time,1930,126.47,0.06,8505
+phenomenology,Heidegger,Off The Beaten Track,1950,108.53,0.07,6734
+phenomenology,Husserl,The Crisis Of The European Sciences And Phenomenology,1940,192.05,0.17,4832
+phenomenology,Husserl,The Idea Of Phenomenology,1910,150.56,0.06,910
+phenomenology,Merleau-Ponty,The Phenomenology Of Perception,1940,170.93,0.08,7592
+plato,Plato,Plato - Complete Works,-350,114.94,0.14,38366
+rationalism,Descartes,Discourse On Method,1640,375.6,0.44,340
+rationalism,Descartes,Meditations On First Philosophy,1640,192.34,0.19,792
+rationalism,Leibniz,Theodicy,1710,157.09,0.19,5027
+rationalism,Malebranche,The Search After Truth,1670,164.43,0.17,12997
+rationalism,Spinoza,Ethics,1680,142.07,0.18,3304
+rationalism,Spinoza,On The Improvement Of Understanding,1680,176.8,0.18,489
+stoicism,Epictetus,Enchiridion,120,118.43,0.05,323
+stoicism,Marcus Aurelius,Meditations,170,139.78,0.12,2212
