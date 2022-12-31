@@ -2,15 +2,17 @@
 ## Fall 2022
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+<img src="figs/archive-nytimes-bridging-the-analytic-continental-divide.jpg" width="500">
+
+image source: https://archive.nytimes.com/opinionator.blogs.nytimes.com/2012/02/19/bridging-the-analytic-continental-divide/
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
 
-Term: Fall 2022
+Term: **Fall 2022**
 
-+ Projec title: Exploratory Data Analysis: Data Story on the History of Philosophy
-+ This project is conducted by Tomasz Wislicki 
++ Projec title: Exploratory Data Analysis (EDA) on the History of Philosophy: **Veryfing the Assumptions of Continental vs Analytic Debate Using Data**
++ This project is conducted by **Tomasz Wislicki**
 
 + Project summary: The following is an exploratory investigation of the general trends in the history of philosophy, based on numerical, sentimnet and emotion classification analysis of the following dataset: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy Following the general, introductory analysis of the whole dataset, I proceed to narrow the scope down to a comparative analysis of the two, arguably, the most influential schools of thought in the 20th century philosophy, namely Continental and Analytic philosophy. 
 
