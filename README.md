@@ -16,7 +16,7 @@ Term: **Fall 2022**
 
 + Project summary: The following is an exploratory investigation of the general trends in the history of philosophy, based on numerical, sentimnet and emotion classification analysis of the following dataset: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy Following the general, introductory analysis of the whole dataset, I proceed to narrow the scope down to a comparative analysis of the two, arguably, the most influential schools of thought in the 20th century philosophy, namely Continental and Analytic philosophy. 
 
-The jupyter notebook file in the doc/ folder called Project1.ipynb contains all the python code for preprocessing as well as nlp and visual analysis--all commented and explained there via jupyter markdown. **The notebook** is organized as follows:
+The jupyter notebook file in the doc/ folder called  **Project1.ipynb** contains all the python code for preprocessing as well as nlp and visual analysis--all commented and explained there via jupyter markdown. **The notebook** is organized as follows:
 
 ```
 1. Loading and preprocessing data**
